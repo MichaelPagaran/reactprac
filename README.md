@@ -1,3 +1,5 @@
+*Personal note:* this repository is used while I'm learning react. Branches are made for different practice projects.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
