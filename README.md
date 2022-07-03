@@ -1,4 +1,4 @@
-*Personal note:* this repository is used while I'm learning react. Branches are made for different practice projects.
+**Personal note:** this repository is used while I'm learning react. Branches are made for *different practice projects*.
 Please do not merge branches to main unless explicitly told to do so
 
 # Getting Started with Create React App
